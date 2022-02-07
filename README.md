@@ -1,1 +1,1 @@
-salt_class
+salt_stack
